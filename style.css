@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #303030;
+    color: rgb(239, 235, 228);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 73vh;
+}
+
+.timer {
+    display: grid;
+    grid-auto-flow: column;
+}
